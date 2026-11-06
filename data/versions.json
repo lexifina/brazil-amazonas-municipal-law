@@ -1,0 +1,635 @@
+{
+ "country": "BR-AM-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "manacapuru/lei-2026-01991",
+   "unit": "manacapuru",
+   "short": "Lei 1991/2026",
+   "title": "Lei nº 1.991, de 21 de outubro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7103",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 4,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7103/lei_municipal_no_1.991_de_21_de_outubro_de_2026.pdf",
+     "sha256": "b4993c7d62b9b49c8cb0866c171ec1bf52ac8f23ff20f7af3c84ac189b5b663b"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01990",
+   "unit": "manacapuru",
+   "short": "Lei 1990/2026",
+   "title": "Lei nº 1.990, de 28 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7098",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 6,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7098/lei_municipal_no_1.990_de_28_de_setembro_de_2026..pdf",
+     "sha256": "44b5aff2c5c6017627c0be6f659b956620cd7951fa25179aafca30b12df546a0"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01989",
+   "unit": "manacapuru",
+   "short": "Lei 1989/2026",
+   "title": "Lei nº 1.989, de 28 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7097",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 8,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7097/lei_municipal_no_1.989_de_28_de_setembro_de_2026..pdf",
+     "sha256": "039bf5f673efc3135159ade66d57883c10c5d8f29d38fd9eed42142b24381ec0"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01988",
+   "unit": "manacapuru",
+   "short": "Lei 1988/2026",
+   "title": "Lei nº 1.988, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7095",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 9,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7095/lei_municipal_no_1.988_de_22_de_setembro_de_2026..pdf",
+     "sha256": "7ae34a8cbecd57ef92da318870c32d91e7165bf00943fd2c057d9ca5e88821e4"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01987",
+   "unit": "manacapuru",
+   "short": "Lei 1987/2026",
+   "title": "Lei nº 1.987, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7094",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 9,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7094/lei_municipal_no_1.987_de_22_de_setembro_de_2026..pdf",
+     "sha256": "ea78debbf7d660b274dad901740ff94cce36878782009b49a0efd1cdcf0aa2bc"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01986",
+   "unit": "manacapuru",
+   "short": "Lei 1986/2026",
+   "title": "Lei nº 1.986, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7093",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 9,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7093/lei_municipal_no_1.986_de_22_de_setembro_de_2026..pdf",
+     "sha256": "b5207a430931ee22ff3553b153a2d8e9e4cd0e7c674a0e08c307c8483e2355e0"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01985",
+   "unit": "manacapuru",
+   "short": "Lei 1985/2026",
+   "title": "Lei nº 1.985, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7092",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 9,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7092/lei_municipal_no_1.985_de_22_de_setembro_de_2026..pdf",
+     "sha256": "6df0ac97f243faf608c4fe72b47995e27458d0a9d0239afc04560525d7fd1eeb"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01983",
+   "unit": "manacapuru",
+   "short": "Lei 1983/2026",
+   "title": "Lei nº 1.983, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7090",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 6,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7090/lei_municipal_no_1.983_de_22_de_setembro_de_2026..pdf",
+     "sha256": "e02be396d1a21df99d12d679726a27cd87d2a8ee8dccdf5db9bdbf8f6e522468"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01982",
+   "unit": "manacapuru",
+   "short": "Lei 1982/2026",
+   "title": "Lei nº 1.982, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7089",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 9,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7089/lei_municipal_no_1.982_de_22_de_setembro_de_2026..pdf",
+     "sha256": "363f664a957ef6fe32d38d23b3c126e1efa593388311b16f449224b919a18aa2"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01981",
+   "unit": "manacapuru",
+   "short": "Lei 1981/2026",
+   "title": "Lei nº 1.981, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7088",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 9,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7088/lei_municipal_no_1.981_de_22_de_setembro_de_2026..pdf",
+     "sha256": "99e797a06334e1dedbd2002d4022abf3f03e1355eedd5a2773bb5f6d6e3bb77e"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01980",
+   "unit": "manacapuru",
+   "short": "Lei 1980/2026",
+   "title": "Lei nº 1.980, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7087",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 8,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7087/lei_municipal_no_1.980_de_22_de_setembro_de_2026..pdf",
+     "sha256": "f9d3823c33c85ec21c718f175fdbad4496d28ba0fa41267692ccf6b0080d628a"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01979",
+   "unit": "manacapuru",
+   "short": "Lei 1979/2026",
+   "title": "Lei nº 1.979, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7086",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 8,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7086/lei_municipal_no_1.979_de_22_de_setembro_de_2026..pdf",
+     "sha256": "5951508c315280603e1e7a9cad8298d384de42b1dc0bd59980dc5aa404cb8b94"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01978",
+   "unit": "manacapuru",
+   "short": "Lei 1978/2026",
+   "title": "Lei nº 1.978, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7085",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 8,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7085/lei_municipal_no_1.978_de_22_de_setembro_de_2026..pdf",
+     "sha256": "db8cb4577c2b0df8b713f4fc8b4c94767fbae6b1cc8e1b88b16b6c962df98701"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01977",
+   "unit": "manacapuru",
+   "short": "Lei 1977/2026",
+   "title": "Lei nº 1.977, de 22 de setembro de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7084",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 25,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7084/lei_municipal_no_1.977_de_22_de_setembro_de_2026..pdf",
+     "sha256": "9cd928bd53b60ebe5596717ded1d8cf7cc79a544b8c574329cb8517c787208eb"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01971",
+   "unit": "manacapuru",
+   "short": "Lei 1971/2026",
+   "title": "Lei nº 1.971, de 3 de julho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7060",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 5,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7060/lei_municipal_no_1.971_de_03_de_julho_de_2026..pdf",
+     "sha256": "6c7a75d859b6078a384e483cfa7ee8e48ef9285be9c5ac4e179c32a6dea7b14d"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01969",
+   "unit": "manacapuru",
+   "short": "Lei 1969/2026",
+   "title": "Lei nº 1.969, de 3 de julho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7058",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 6,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7058/lei_municipal_no_1.969_de_03_de_julho_de_2026..pdf",
+     "sha256": "c07ec9f972c70852d77a7bb3d6b32f847fba464ab6bab2d003f935b7624f860d"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01968",
+   "unit": "manacapuru",
+   "short": "Lei 1968/2026",
+   "title": "Lei nº 1.968, de 3 de julho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7057",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 45,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7057/lei_municipal_no_1.968_de_03_de_julho_de_2026..pdf",
+     "sha256": "c932f94ac6c1e4706634f4254118665da1242f9c8b726dde3f6f5d00e084ffea"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01967",
+   "unit": "manacapuru",
+   "short": "Lei 1967/2026",
+   "title": "Lei nº 1.967, de 3 de julho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7056",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 54,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7056/lei_municipal_no_1.967_de_03_de_julho_de_2026..pdf",
+     "sha256": "c3a1cff7fa74eec77b04a70351699ca8c5bffbccf3f93c981706097dd38a86dc"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01966",
+   "unit": "manacapuru",
+   "short": "Lei 1966/2026",
+   "title": "Lei nº 1.966, de 3 de julho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7055",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 41,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7055/lei_municipal_no_1.966_de_03_de_julho_de_2026..pdf",
+     "sha256": "05ad08df36747ff55ed5addbc17394675b83903efe688b26cde80c8a3e42a20f"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01965",
+   "unit": "manacapuru",
+   "short": "Lei 1965/2026",
+   "title": "Lei nº 1.965, de 3 de julho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7054",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 5,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7054/lei_municipal_no_1.965_de_03_de_julho_de_2026..pdf",
+     "sha256": "8136bdcf2a37136af788beca7a9b752990b6b83f7575ae28dcc6e852e7b970a4"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01964",
+   "unit": "manacapuru",
+   "short": "Lei 1964/2026",
+   "title": "Lei nº 1.964, de 17 de junho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7034",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 19,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7034/lei_municipal_no_1.964_de_17_de_junho_de_2026..pdf",
+     "sha256": "d3387e0c42832df94262f5aab617fe5d1e6f639f3ef5fd7e7c3a5857c84ead06"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01963",
+   "unit": "manacapuru",
+   "short": "Lei 1963/2026",
+   "title": "Lei nº 1.963, de 17 de junho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7033",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 10,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7033/lei_municipal_no_1.963_de_17_de_junho_de_2026..pdf",
+     "sha256": "1cb9dba9e08d4f92ab93c812770a8fde15d4caee78dc4f7d707ae38feca2f2f3"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01962",
+   "unit": "manacapuru",
+   "short": "Lei 1962/2026",
+   "title": "Lei nº 1.962, de 17 de junho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7032",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 14,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7032/lei_municipal_no_1.962_de_17_de_junho_de_2026..pdf",
+     "sha256": "f73d388c360cdab64d44289766460dd66d13d4a92da2fd8c3a3ffc9a569d3239"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01961",
+   "unit": "manacapuru",
+   "short": "Lei 1961/2026",
+   "title": "Lei nº 1.961, de 10 de junho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7030",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 5,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7030/lei_municipal_no_1.961_de_10_de_junho_de_2026..pdf",
+     "sha256": "7358403fd0b549e756dae684e1cd95668b08a6b0390773d25eaec9db73e0661e"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01960",
+   "unit": "manacapuru",
+   "short": "Lei 1960/2026",
+   "title": "Lei nº 1.960, de 10 de junho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7029",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 5,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7029/lei_municipal_no_1.960_de_10_de_junho_de_2026..pdf",
+     "sha256": "d9ea3763af5f9dfcb446133c841e0db5732f1d8d09d2c4b61aaaa04d2216c2df"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01959",
+   "unit": "manacapuru",
+   "short": "Lei 1959/2026",
+   "title": "Lei nº 1.959, de 10 de junho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7028",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 6,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7028/lei_municipal_no_1.959_de_10_de_junho_de_2026..pdf",
+     "sha256": "8125f4858234ea6c5c3dfc8ef9f4783d77aeb6af94e66ead16efc5aa2b361713"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01958",
+   "unit": "manacapuru",
+   "short": "Lei 1958/2026",
+   "title": "Lei nº 1.958, de 10 de junho de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/7027",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 5,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/7027/lei_municipal_no_1.958_de_10_de_junho_de_2026..pdf",
+     "sha256": "d02645c0eb11e003698b212be05cde8d4b2bc4bfb7450ea7a69c764fdd43f5ac"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01956",
+   "unit": "manacapuru",
+   "short": "Lei 1956/2026",
+   "title": "Lei nº 1.956, de 28 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6866",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 8,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6866/lei_municipal_no_1.956_de_28_de_maio_de_2026..pdf",
+     "sha256": "d97cb570eb28efe35e900a1d6d18fe01dc028f1ac0d4adc2a5a5aff576285359"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01955",
+   "unit": "manacapuru",
+   "short": "Lei 1955/2026",
+   "title": "Lei nº 1.955, de 12 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6601",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 13,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6601/lei_municipal_no_1.955_de_12_de_maio_de_2026..pdf",
+     "sha256": "e5f21ff4a2cbbf92fbcf6f389c3f5832a41677179de4558fd62806b87e9224fc"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01954",
+   "unit": "manacapuru",
+   "short": "Lei 1954/2026",
+   "title": "Lei nº 1.954, de 12 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6600",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 7,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6600/lei_municipal_no_1.954_de_12_de_maio_de_2026..pdf",
+     "sha256": "fefeac9ede9508cc4abf5617043d95adbd5dc95af5e55e6c3e255e6c3d60e5e4"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01953",
+   "unit": "manacapuru",
+   "short": "Lei 1953/2026",
+   "title": "Lei nº 1.953, de 12 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6554",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 3,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6554/lei_municipal_no_1.953_de_12_de_maio_de_2026..pdf",
+     "sha256": "cfedfde00a5d783d0ba6052f39ce63e8de5e06a6b9256c9d2e42e7951c02a8da"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01952",
+   "unit": "manacapuru",
+   "short": "Lei 1952/2026",
+   "title": "Lei nº 1.952, de 12 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6553",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 8,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6553/lei_municipal_no_1.952_de_12_de_maio_de_2026..pdf",
+     "sha256": "e9b08200f5afb10962d8db4975d547c32734616030c14c2b4479b00530a08fbb"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01951",
+   "unit": "manacapuru",
+   "short": "Lei 1951/2026",
+   "title": "Lei nº 1.951, de 12 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6552",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 41,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6552/lei_municipal_no_1.951_de_12_de_maio_de_2026..pdf",
+     "sha256": "b57cdbc7407892499b50c2a3df9928fa34847db0a61c3cede297a0e829c8c365"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01950",
+   "unit": "manacapuru",
+   "short": "Lei 1950/2026",
+   "title": "Lei nº 1.950, de 12 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6551",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 3,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6551/lei_municipal_no_1.950_de_12_de_maio_de_2026..pdf",
+     "sha256": "bc39412e734a6ce3fdb81e6ab730f2eae2f347b1f2ca568515c5b9b52e492e49"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01949",
+   "unit": "manacapuru",
+   "short": "Lei 1949/2026",
+   "title": "Lei nº 1.949, de 12 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6550",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 7,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6550/lei_municipal_no_1.949_de_12_de_maio_de_2026..pdf",
+     "sha256": "ceede52581348a821b2f2b329ffa9c624d7222ef3b614acb958b7fa389b9a9b1"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01948",
+   "unit": "manacapuru",
+   "short": "Lei 1948/2026",
+   "title": "Lei nº 1.948, de 4 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6477",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 7,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6477/lei_municipal_no_1.948_de_04_de_maio_de_2026..pdf",
+     "sha256": "eaa17e9e38b0fda6570cdbcb82a0313f50789de6e6b9cd2081716a23403a27d7"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01947",
+   "unit": "manacapuru",
+   "short": "Lei 1947/2026",
+   "title": "Lei nº 1.947, de 4 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6476",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 7,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6476/lei_municipal_no_1.947_de_04_de_maio_de_2026..pdf",
+     "sha256": "1d6c83e9a8fa0a29aa99ecea03813ba4a3e1461ae1b60dac8903d42683a1a848"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01946",
+   "unit": "manacapuru",
+   "short": "Lei 1946/2026",
+   "title": "Lei nº 1.946, de 4 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6475",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 7,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6475/lei_municipal_no_1.946_de_04_de_maio_de_2026..pdf",
+     "sha256": "3244a21f11546dfdfbe11f81f412fb63872b3d1a3aadea94d3b406a0d20e778e"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01945",
+   "unit": "manacapuru",
+   "short": "Lei 1945/2026",
+   "title": "Lei nº 1.945, de 4 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6474",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 5,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6474/lei_municipal_no_1.945_de_04_de_maio_de_2026..pdf",
+     "sha256": "302b18b8c11467cbc7df1355230970b81e4b637243960f25866fc76d8474cf97"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01944",
+   "unit": "manacapuru",
+   "short": "Lei 1944/2026",
+   "title": "Lei nº 1.944, de 4 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6473",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 9,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6473/lei_municipal_no_1.944_de_04_de_maio_de_2026..pdf",
+     "sha256": "e7d15d9488658c388e16d6b7bf704961e213acd54a038f339abcfd98a7b19157"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01943",
+   "unit": "manacapuru",
+   "short": "Lei 1943/2026",
+   "title": "Lei nº 1.943, de 4 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6472",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 4,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6472/lei_municipal_no_1.943_de_04_de_maio_de_2026..pdf",
+     "sha256": "cef01d8d14c553cbdac94a68228585ad15360daee3f4933840a73a4d8f4a4183"
+    }
+   ]
+  },
+  {
+   "slug": "manacapuru/lei-2026-01942",
+   "unit": "manacapuru",
+   "short": "Lei 1942/2026",
+   "title": "Lei nº 1.942, de 4 de maio de 2026",
+   "url": "https://sapl.manacapuru.am.leg.br/norma/6471",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 3,
+     "source_url": "https://sapl.manacapuru.am.leg.br/media/sapl/public/normajuridica/2026/6471/lei_municipal_no_1.942_de_04_de_maio_de_2026..pdf",
+     "sha256": "865f01f1c907b29bb4921dffd82f54a59aea544e0d3531a06b9b737d2377bcfa"
+    }
+   ]
+  }
+ ]
+}

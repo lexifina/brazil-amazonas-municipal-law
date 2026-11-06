@@ -1,0 +1,12 @@
+{
+  "path": "br-am-municipal",
+  "code": "BR-AM-MUNICIPAL",
+  "name": "Amazonas (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-am",
+  "repo": "https://github.com/lexifina/brazil-amazonas-municipal-law",
+  "build": "built: the municipal law of Amazonas from the Câmaras Municipais' SAPL",
+  "units": [
+    "manacapuru"
+  ]
+}

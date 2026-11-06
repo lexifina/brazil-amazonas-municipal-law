@@ -1,0 +1,17 @@
+{
+ "country": "BR-AM-MUNICIPAL",
+ "name": "Amazonas: municipal chambers",
+ "tz": "America/Manaus",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Amazonas (SAPL)",
+ "units": [
+  {
+   "id": "manacapuru",
+   "folder": "manacapuru",
+   "name": "Manacapuru",
+   "code": "BR-AM-MANACAPURU",
+   "official_code": "1302504",
+   "source": "sapl.manacapuru.am.leg.br"
+  }
+ ]
+}
